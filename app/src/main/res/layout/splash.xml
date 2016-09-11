@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ff3f51b5" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0" android:backgroundTint="#ff3f51a0" android:backgroundTintMode="screen"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_horizontal" android:id="@+id/imgsp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="100.0dip" android:src="@drawable/ic_launcher" />
+    <TextView android:textAppearance="?android:textAppearanceLarge" android:textSize="40.0dip" android:typeface="monospace" android:gravity="center" android:layout_gravity="center_horizontal" android:id="@+id/textView" android:padding="5.0dip" android:layout_width="293.0dip" android:layout_height="wrap_content" android:text="MUSIXPLAYER" android:singleLine="true" android:autoText="false" android:layout_weight="0.05" android:textAlignment="center" android:elegantTextHeight="true" />
+</LinearLayout>
